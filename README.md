@@ -1,5 +1,10 @@
 # README
 
+## OUR BULLSHIT
+
+WE HATE OUR USERS AND WANT THEM TO PISS EMSELVS
+ESPISELLY I, ZML2008, THE EXTREME PISSER OFFER
+
 ## PermissionsEx
 
 PermissionsEx \(PEX \(not the pipe\)\) is a full-service permissions plugin giving in-depth control of permissions for a server. PEX is available for various server and proxy platforms:
